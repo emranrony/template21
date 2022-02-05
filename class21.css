@@ -1,0 +1,11 @@
+.slider{
+    top: 35%;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.footer p{
+    margin-top: 8px;
+}
